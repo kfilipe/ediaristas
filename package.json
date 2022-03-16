@@ -2,7 +2,7 @@
   "name": "ediaristas",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourgithubname.github.io/your-app-name",
+  "homepage": "https://kfilipe.github.io/ediaristas",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
